@@ -21,5 +21,8 @@ Post process: K-means create clusters ??
 
 **Feature extractor**:  convolution + residual connection + max pool
 
-### Training
+**Backbone**: Darknet-19 less accuracy than ResNet models but faster
 
+
+## Le banger
+![[Le banger.png]]

@@ -1,5 +1,6 @@
 - [ ] Focal loss
 - [ ] MAP
+- [ ] Heap and stack
 
 
 

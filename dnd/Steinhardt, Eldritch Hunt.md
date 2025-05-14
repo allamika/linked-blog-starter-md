@@ -1,6 +1,7 @@
 ### Warlock
-#### Backstory
-
+#### Backstory:
+Membre d'une famille noble bien placée dans le clergé de la radiant church. La branche principale est composée de prêtre tandis la branche secondaire joue un rôle au sein de l'inquisition avec la reputation d'être particulièrement violente. En réalité, cette famille noble vénère une entité eldritch de la mort et la renaissance ayant pour objectif d'affaiblir la radiant church pour ensuite la transformer.
+En tant que membre de la branche secondaire, il a reçu une education religieuse forte puis a l'adolescence à intégré l'inquisition. 
 #### Race: 
 - Demidritch:
 	- Ability Score Increase: your Charisma score increases by 2. 
@@ -11,6 +12,11 @@
 	- Shard of Infinity: you are born of the galaxies and their endless void. You have resistance to cold damage.
 	- Astral Being: your many eyes grant you sight. You have advantage on saving throws against being blinded
 	- Languages: You can speak, read, and write Common and Deep Speech.
+	- **Oculare**:
+		- All Seeing Eyes. Starting at 3rd level, you can use your action to unleash your progenitor’s eldritch energy, causing eyes that glow with an ethereal quality to open along your body and clothing for 1 minute. For the duration, creatures within 60 feet of you can’t gain advantage on attack rolls against you as a result of being invisible or unseen
+		- Starting at level 12 you also grow eye-covered eldritch wings which grant you a flying speed of 30 feet and the ability to see invisibility out to a range of 60 feet.
+		- Once you use this trait, you can't use it again until you finish a long rest. Watchers.
+		- You are proficient in the Perception skill.
 #### Otherworldly Patron:
 - **archfey**: chaotic good prankster.
 	- lots of movement, bit of control 

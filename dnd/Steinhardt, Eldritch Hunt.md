@@ -1,5 +1,52 @@
 ### Warlock
-#### Backstory
+#### Backstory:
+Demidritch: 20 ans
+
+
+Il a reçu une éducation religieuse forte aussi bien sur the radiant one que sur ?? . Puis en tant que membre de la branche secondaire, à l'adolescence a intégré l'inquisition. Il est donc insensibilisé à la violence est la torture et à une bonne connaissance de la religion et des différents culte de la région.
+
+Pour pouvoir exercer son rôle au sein de l'inquisition sans attirer trop d'attention avec son apparence de demidrich, on lui a confié le "mask of many faces", un artefact présumé de ?? permettant à son porteur de modifier son apparence à volonté. Il a l'habitude de prendre l'apparence d'un homme de brun de 30 ans à la peau pâle.
+
+Après de nombreuses années à porté le masque, il commence à ressentir la présence d'une entité au sein de l'artefact et commence à pouvoir utiliser ces pouvoirs. Ces découvertes lui permettent d'invoquer un pistolet qui sert de catalyst pour lancer de sort.
+
+Il découvrira plus tard que l'entité habitant le masque est en fait Hyrsam, the Prince of Fools, malin, manipulateur, violent et anarchiste. 
+##### Histoire familiale
+Les De Maquis sont une ancienne famille noble qui prédate l'invasion des scourges, ils ont d'ailleurs récupéré leurs noms suite à la défense de poches de resistances durant l'invasion. Une fois que les dernières poches tombent la famille rejoint alors le dernier berceau de l'humanité et se concentre sur la foi jusqu'à devenir un acteur important de la divine enclave. Il y a deux siècle lors d'une purge au seins de l'obitus scolare, le patriarche des De Maquis entre en possession d'un livre des morts un puissant artefacts de ??, le livre des morts. Au fil des années il devient de plus en plus obsédé par l'étude du livre, finissant corrompu et entrainant une partie de la famille avec lui. Son étude finit par le poussé à la folie et le faire remarqué par le reste de la divine enclave, qui avec certains membres de la famille opèrent une purge brutal au seins de De Maquis. Durant le purge plusieurs artefact de ?? sont retrouvés et détruis ou scellées mais le livres des morts n'a jamais été retrouvé. Bien que affaiblit, cette purge brutale et longue leur histoire en tant que famille noble leurs ont permit de conserver un grande partie de leur status. Depuis les De Maquis sont une des branches les plus brutales et sans pitié de l'inquisition
+
+Mais comme toujours les vieux démons reviennent, le livres des morts été resté en possession de la famille  
+En réalité, cette famille noble vénère une entité eldritch de la mort et la renaissance ?? ayant pour objectif d'affaiblir la radiant church pour ensuite la transformer. Basée grande cathédrale 
+
+ange Erica fuck yeah
+
+boquin -> liste artefact dont le masque
+
+grand faction:
+house of blood => maison noble 
+ancienne noblesse
+roi sans foi
+abyss watch => nain des profondeur
+scion => scientifique fou, experimentation humain, technologie
+iron guard => protege les frontiere contre les scourges
+ radiant order military => buter scourge et purger heretique
+			 blood cross => noble, healer sadoque
+			 milice 
+			 gray templar
+obitus scolare => recherche abus 
+			=> 33 eme chasse, jeager bute scouge
+divine enclave => scribe et prietre investigateur => censure text 
+cosmique ceminarie => divination, proche du roi sans foi, base montagne lugarna
+
+district:
+- [ ] la grande cathédrale => important clergé
+- [ ] les alentours de la cathédrale veut etre proche du clerge
+- [ ] district sanctifié
+- [ ] observatoire 
+- [ ] les trois tours
+- [ ] le luminary repository
+- [ ] bridge 
+- [ ] scion 
+- [ ] ruby disrict quartier entretainement => très frequenté par la noblesse ecarlate
+- [ ] patern iter ancienne famille noble + garde mangé
 
 #### Race: 
 - Demidritch:
@@ -11,6 +58,11 @@
 	- Shard of Infinity: you are born of the galaxies and their endless void. You have resistance to cold damage.
 	- Astral Being: your many eyes grant you sight. You have advantage on saving throws against being blinded
 	- Languages: You can speak, read, and write Common and Deep Speech.
+	- **Oculare**:
+		- All Seeing Eyes. Starting at 3rd level, you can use your action to unleash your progenitor’s eldritch energy, causing eyes that glow with an ethereal quality to open along your body and clothing for 1 minute. For the duration, creatures within 60 feet of you can’t gain advantage on attack rolls against you as a result of being invisible or unseen
+		- Starting at level 12 you also grow eye-covered eldritch wings which grant you a flying speed of 30 feet and the ability to see invisibility out to a range of 60 feet.
+		- Once you use this trait, you can't use it again until you finish a long rest. Watchers.
+		- You are proficient in the Perception skill.
 #### Otherworldly Patron:
 - **archfey**: chaotic good prankster.
 	- lots of movement, bit of control 

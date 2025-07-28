@@ -18,6 +18,7 @@ First scale : Base feature extractor -> few conv layer -> predict 3D tensor
 	Other scales: Upsampling of the feature map of 2 previous layer + earlier feature map -> conv layers -> predict 
 Each scale predict 3 box 
 Post process: K-means create clusters ??
+![[ArchitectureYOLOv3.png]]
 
 **Feature extractor**:  convolution + residual connection + max pool
 

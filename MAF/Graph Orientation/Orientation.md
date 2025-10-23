@@ -55,13 +55,14 @@ Multiple function are available to create an orientation:
 - SetCavityToTheta(theta) : moves forward until the cavity position reaches theta. If the cavity is lost in the process, a timeout depending on the last position of the stem is launched. Returns true if the cavity reach the input theta position or if the time out is reached
 - SetCavityToTheta(phi) : moves forward until the cavity position reaches theta. If the cavity is lost in the process, a timeout depending on the last position of the stem is launched. Returns true if the cavity reach the input phi position or if the time out is reached
 
-#### Fonction with target
-
-Some of the orientation functions use a target position($T\phi, T\theta$) and a tolerance angle ($Tol\phi, Tol\theta$) for the stem final position. This tolerance produces an area where the stem is judge as being in a valid position, red for $\phi$, yellow for $\theta$ and orange when both conditions are met.
-But due to the instability of phi around the pole the valid area becomes very small and hard to use. To avoid this issue we choose to modulate $Tol\phi$ near the pole. The factor $p$ can be used to amplify or diminish this effect.
-$PTol\phi= Tol\phi / \sin^p{\theta}$
-
-A geogebra file is available to visualize the tolerance area with a given $Tol\phi$, $Tol\theta$ and $T\theta$
+	#### Fonction with target
+	
+	Some of the orientation functions use a target position($T\phi, T\theta$) and a tolerance angle ($Tol\phi, Tol\theta$) for the stem final position. This tolerance produces an area where the stem is judge as being in a valid position, red for $\phi$, yellow for $\theta$ and orange when both conditions are met.
+	
+	But due to the instability of phi around the pole the valid area becomes very small and hard to use. To avoid this issue we choose to modulate $Tol\phi$ near the pole. The factor $p$ can be used to amplify or diminish this effect.
+	$PTol\phi= Tol\phi / \sin^p{\theta}$
+	
+	A geogebra file is available to visualize the tolerance area with a given $Tol\phi$, $Tol\theta$ and $T\theta$
 
 ### Cavity in Plane Orientation
 

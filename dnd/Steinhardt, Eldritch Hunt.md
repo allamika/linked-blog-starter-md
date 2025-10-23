@@ -3,6 +3,13 @@
 Demidritch: 20 ans
 
 
+17
+11
+14
+11
+16
+9
+
 Il a reçu une éducation religieuse forte aussi bien sur the radiant one que sur ?? . Puis en tant que membre de la branche secondaire, à l'adolescence a intégré l'inquisition. Il est donc insensibilisé à la violence est la torture et à une bonne connaissance de la religion et des différents culte de la région.
 
 Pour pouvoir exercer son rôle au sein de l'inquisition sans attirer trop d'attention avec son apparence de demidrich, on lui a confié le "mask of many faces", un artefact présumé de ?? permettant à son porteur de modifier son apparence à volonté. Il a l'habitude de prendre l'apparence d'un homme de brun de 30 ans à la peau pâle.

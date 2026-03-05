@@ -5,4 +5,3 @@
 - [ ] [Feature Pyramid Networks for Object Detection](https://arxiv.org/pdf/1612.03144)
 - [ ] [# What is YOLOv5: A deep look into the internal features of the popular object detector](https://arxiv.org/pdf/2407.20892v1)
 - [ ] [Segment Anything](https://arxiv.org/pdf/2304.02643)
-

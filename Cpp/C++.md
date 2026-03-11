@@ -6,7 +6,7 @@ Properties:
 - Configuration Properties > C/C++ > Language > Language Standard > ISO C++ Latest 
 
 
-### Initialisation
+#### Initialisation
 
 ```cpp
 int a;         // default-initialization (no initializer)
@@ -35,7 +35,7 @@ std::cout << x; // we're using that 0 value here
 - In most cases, value-initialization will implicitly initialize the variable to zero (or whatever value is closest to zero for a given type)
 - List-initialization is the preferred form of initialization in modern C++
 
-### OIStream
+#### OIStream
 
 ##### `std::cout` is buffered
 Consider a rollercoaster ride at your favorite amusement park. Passengers show up (at some variable rate) and get in line. Periodically, a train arrives and boards passengers (up to the maximum capacity of the train). When the train is full, or when enough time has passed, the train departs with a batch of passengers, and the ride commences. Any passengers unable to board the current train wait for the next one.
@@ -63,14 +63,14 @@ The result of the extraction process is as follows:
 - If no characters could be extracted in step 4 above, extraction has failed. The object being extracted to is copy-assigned the value `0` (as of C++11), and any future extractions will immediately fail (until `std::cin` is cleared).
 Any non-extracted characters (including newlines) remain available for the next extraction attempt.
 
-### Uninitialized variables and undefined behavior
+#### Uninitialized variables and undefined behavior
 
 Recap:
 - Initialized = The object is given a known value at the point of definition.
 - Assignment = The object is given a known value beyond the point of definition.
 - Uninitialized = The object has not been given a known value yet.
 
-### Base Concept
+#### Base Concept
 A **statement** is a type of instruction that causes the program to perform some action. Statements are often terminated by a semicolon.
 
 A **function** is a collection of statements that execute sequentially. Every C++ program must include a special function named _main_. When you run your program, execution starts at the top of the _main_ function.
@@ -92,3 +92,32 @@ A **data type** tells the compiler how to interpret a piece of data into a mea
 **Copy assignment** (via operator=) can be used to assign an already created variable a value.
 
 The process of specifying an initial value for an object is called **initialization**, and the syntax used to initialize an object is called an **initializer**.
+
+#### “Out of scope” vs “going out of scope”
+
+The terms “out of scope” and “going out of scope” can be confusing to new programmers.
+
+An identifier is out of scope anywhere it cannot be accessed within the code. In the example above, the identifier `x` is in scope from its point of definition to the end of the `main` function. The identifier `x` is out of scope outside of that code region.
+
+The term “going out of scope” is typically applied to objects rather than identifiers. We say an object goes out of scope at the end of the scope (the end curly brace) in which the object was instantiated. In the example above, the object named `x` goes out of scope at the end of the function `main`.
+
+A local variable’s lifetime ends at the point where it goes out of scope, so local variables are destroyed at this point.
+
+Note that not all types of variables are destroyed when they go out of scope. We’ll see examples of these in future lessons.
+
+Remember, lifetime is a runtime property, and scope is a compile-time property.
+
+#### Forward declaration
+
+We can also fix this by using a forward declaration.
+
+A **forward declaration** allows us to tell the compiler about the existence of an identifier _before_ actually defining the identifier.
+
+In the case of functions, this allows us to tell the compiler about the existence of a function before we define the function’s body. This way, when the compiler encounters a call to the function, it’ll understand that we’re making a function call, and can check to ensure we’re calling the function correctly, even if it doesn’t yet know how or where the function is defined.
+
+To write a forward declaration for a function, we use a **function declaration** statement (also called a **function prototype**). The function declaration consists of the function’s return type, name, and parameter types, terminated with a semicolon. The names of the parameters can be optionally included. The function body is not included in the declaration.
+
+#### The global namespace
+
+In C++, any name that is not defined inside a class, function, or a namespace is considered to be part of an implicitly-defined namespace called the **global namespace** (sometimes also called **the global scope**).
+

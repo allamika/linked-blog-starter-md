@@ -122,3 +122,5 @@ To write a forward declaration for a function, we use a **function declaration*
 In C++, any name that is not defined inside a class, function, or a namespace is considered to be part of an implicitly-defined namespace called the **global namespace** (sometimes also called **the global scope**).
 
 The :: symbol is an operator called the **scope resolution operator**. The identifier to the left of the `::` symbol identifies the namespace that the name to the right of the `::` symbol is contained within. If no identifier to the left of the `::` symbol is provided, the global namespace is assumed.
+
+When an identifier includes a namespace prefix, the identifier is called a **qualified name**.

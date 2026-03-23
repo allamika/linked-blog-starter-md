@@ -5,6 +5,10 @@
 - [ ] slam tracking
 - [ ] orb slam tracking
 - [ ] informatique fusion de donnees kf
+- [ ] calcul matricielle
+
+
+
 
 
 

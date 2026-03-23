@@ -1,0 +1,15 @@
+
+Goal: Edge detection, feature extraction
+- **[[Gradient Blur]]** → reduce noise 
+- **[[Gradient Computation]]** → detect intensity changes (ex sobel)
+- **Non-Maximum Suppression** → thin edges (Idea: for each pixel, keep it **only if it’s a local maximum along the gradient direction**)
+- **Double Threshold + Hysteresis** → keep strong edges, connect weak ones
+	- Double Threshold : 
+		- **Strong edges** → permanent lines
+		- **Weak edges** → pencil lines, only solidify if they touch a permanent line
+		- **Noise** → ignored
+	- Hysteresis
+		- Start from all **strong edge pixels**.
+		- Look at their **8-connected neighbors** (all surrounding pixels).
+		- If a neighbor is a **weak edge**, mark it as a **strong edge** (keep it).
+		- Repeat recursively until no more weak neighbors can be promoted.

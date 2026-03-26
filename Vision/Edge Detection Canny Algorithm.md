@@ -1,4 +1,3 @@
-
 Goal: Edge detection, feature extraction
 - **[[Gradient Blur]]** → reduce noise 
 - **[[Gradient Computation]]** → detect intensity changes (ex sobel)

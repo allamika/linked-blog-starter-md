@@ -3,7 +3,7 @@ The **gradient** of an image measures how quickly pixel intensity changes in dif
 
 For a grayscale image $I(x,y)$, the gradient is a vector:
 
-$∇I=(∂I∂x,∂I∂y)\nabla I = \left( \frac{\partial I}{\partial x}, \frac{\partial I}{\partial y} \right)∇I=(∂x∂I​,∂y∂I​)$
+$$∇I=(∂I∂x,∂I∂y)\nabla I = \left( \frac{\partial I}{\partial x}, \frac{\partial I}{\partial y} \right)∇I=(∂x∂I​,∂y∂I​)$$
 
 - $\frac{\partial I}{\partial x}$​: change in horizontal direction
 - $\frac{\partial I}{\partial y}$​: change in vertical direction
@@ -16,7 +16,7 @@ $∇I=(∂I∂x,∂I∂y)\nabla I = \left( \frac{\partial I}{\partial x}, \frac{
 
 Kernels:
 
-$G_x \begin{bmatrix} -1 & 0 & 1 \\ -2 & 0 & 2 \\ -1 & 0 & 1 \end{bmatrix} \quad G_y = \begin{bmatrix} -1 & -2 & -1 \\ 0 & 0 & 0 \\ 1 & 2 & 1 \end{bmatrix}$
+$$G_x \begin{bmatrix} -1 & 0 & 1 \\ -2 & 0 & 2 \\ -1 & 0 & 1 \end{bmatrix} \quad G_y = \begin{bmatrix} -1 & -2 & -1 \\ 0 & 0 & 0 \\ 1 & 2 & 1 \end{bmatrix}$$
 
 $G=\sqrt{Gx2​+Gy2​​}$
 $θ=arctan2(Gy​,Gx​)$

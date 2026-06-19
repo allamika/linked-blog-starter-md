@@ -92,3 +92,16 @@ A **data type** tells the compiler how to interpret a piece of data into a mea
 **Copy assignment** (via operator=) can be used to assign an already created variable a value.
 
 The process of specifying an initial value for an object is called **initialization**, and the syntax used to initialize an object is called an **initializer**.
+
+##### How parameters and arguments work together
+When a function is called, all of the parameters of the function are created as variables, and the value of each of the arguments is _copied_ into the matching parameter (using copy initialization). This process is called **pass by value**. Function parameters that utilize pass by value are called **value parameters**.
+
+ Local variables are destroyed in the opposite order of creation at the end of the set of curly braces in which it is defined (or for a function parameter, at the end of the function).
+
+### Declarations vs. definitions
+| Term             | Technical Meaning                                                                         | Examples                                                                                                                                       |
+| ---------------- | ----------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| Declaration      | Tells compiler about an identifier and its associated type information.                   | void foo(); // function forward declaration (no body)  <br>void goo() {}; // function definition (has body)  <br>int x; // variable definition |
+| Definition       | Implements a function or instantiates a variable.  <br>Definitions are also declarations. | void foo() { } // function definition (has body)  <br>int x; // variable definition                                                            |
+| Pure declaration | A declaration that isn’t a definition.                                                    | void foo(); // function forward declaration (no body)                                                                                          |
+| Initialization   | Provides an initial value for a defined object.                                           | int x { 2 }; // x is initialized to value 2                                                                                                    |

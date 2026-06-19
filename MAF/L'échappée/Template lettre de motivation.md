@@ -1,0 +1,9 @@
+Specialized in artificial intelligence and image processing, I am eager to further deepen and develop my skills in this field. I am currently seeking a developer position focused on artificial intelligence topics.
+
+I would like to apply for your position as its technical scope particularly interests me and aligns with the career path I wish to pursue. Moreover, continuing to work in a robotics environment within a team that has strong decision-making autonomy would be an ideal setting in which to apply and expand my skills.
+
+I have solid knowledge of computer vision and image processing techniques. Having had the opportunity to work on deep learning architectures for real-time image processing such as RF-DETR or YOLO, I am familiar with the tools used in this field and have a strong command of Python’s scientific libraries. To further improve my skills, I enjoy working on personal projects such as small transformer models, autoencoders, or a Python neural network library developed from scratch. I have also worked on lower-level projects, such as implementing Non-Maximum Suppression (NMS) in C++/CUDA for post-processing. Additionally, I have had some exposure to real-time vision model quantization.
+
+Motivated and hardworking, I adapt quickly to new technical topics and am not afraid to take on unfamiliar challenges. Driven by a desire for continuous technical improvement, I regularly self-train and keep up with the latest state of the art. I also have a strong command of English and am comfortable working with colleagues from different nationalities.
+
+Very interested in your opportunity, I would welcome the chance to meet with you to further discuss my motivation in more detail. I look forward to your response and remain at your disposal. Please accept my sincere regards.

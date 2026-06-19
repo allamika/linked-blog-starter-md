@@ -6,7 +6,7 @@ Properties:
 - Configuration Properties > C/C++ > Language > Language Standard > ISO C++ Latest 
 
 
-### Initialisation
+#### Initialisation
 
 ```cpp
 int a;         // default-initialization (no initializer)
@@ -35,7 +35,7 @@ std::cout << x; // we're using that 0 value here
 - In most cases, value-initialization will implicitly initialize the variable to zero (or whatever value is closest to zero for a given type)
 - List-initialization is the preferred form of initialization in modern C++
 
-### OIStream
+#### OIStream
 
 ##### `std::cout` is buffered
 Consider a rollercoaster ride at your favorite amusement park. Passengers show up (at some variable rate) and get in line. Periodically, a train arrives and boards passengers (up to the maximum capacity of the train). When the train is full, or when enough time has passed, the train departs with a batch of passengers, and the ride commences. Any passengers unable to board the current train wait for the next one.
@@ -63,14 +63,14 @@ The result of the extraction process is as follows:
 - If no characters could be extracted in step 4 above, extraction has failed. The object being extracted to is copy-assigned the value `0` (as of C++11), and any future extractions will immediately fail (until `std::cin` is cleared).
 Any non-extracted characters (including newlines) remain available for the next extraction attempt.
 
-### Uninitialized variables and undefined behavior
+#### Uninitialized variables and undefined behavior
 
 Recap:
 - Initialized = The object is given a known value at the point of definition.
 - Assignment = The object is given a known value beyond the point of definition.
 - Uninitialized = The object has not been given a known value yet.
 
-### Base Concept
+#### Base Concept
 A **statement** is a type of instruction that causes the program to perform some action. Statements are often terminated by a semicolon.
 
 A **function** is a collection of statements that execute sequentially. Every C++ program must include a special function named _main_. When you run your program, execution starts at the top of the _main_ function.
@@ -104,4 +104,4 @@ When a function is called, all of the parameters of the function are created as 
 | Declaration      | Tells compiler about an identifier and its associated type information.                   | void foo(); // function forward declaration (no body)  <br>void goo() {}; // function definition (has body)  <br>int x; // variable definition |
 | Definition       | Implements a function or instantiates a variable.  <br>Definitions are also declarations. | void foo() { } // function definition (has body)  <br>int x; // variable definition                                                            |
 | Pure declaration | A declaration that isn’t a definition.                                                    | void foo(); // function forward declaration (no body)                                                                                          |
-| Initialization   | Provides an initial value for a defined object.                                           | int x { 2 }; // x is initialized to value 2                                                                                                    |
+

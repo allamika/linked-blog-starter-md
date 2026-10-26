@@ -40,3 +40,4 @@ $\text{tr}(M) = \lambda_1 + \lambda_2$
 
 Response:
 $R=det(M)−k⋅tr(M)^2$
+A threshold on R determine if the point is a corner or not

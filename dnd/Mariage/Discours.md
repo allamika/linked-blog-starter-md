@@ -30,6 +30,8 @@ Carla THALABAS voulez-vous prendre Pierre VADROT pour époux, pour l'aimer, le r
 Pierre, Carla devant vos familles, vos amis, vos témoins, vous avez échangé vos vœux, vos consentements et vos alliances.
 Et dés a présent par tous les pouvoirs qui me sont conférés je vous déclares unis par les liens du mariages. Vous pouvais vous embrasser. 
 
+[Acte d'engagement et photo avec les témoins]
+
 Maintenant, pour sceller cette union et donner naissance à un symbole de votre amour, nous allons planter un arbre. Il vous rappellera chaque jour les promesses que vous vous êtes faites aujourd’hui.
 
 Je vais maintenant demander aux invités de me rejoindre, chacun leur tour, pour apporter leur contribution.
@@ -69,10 +71,10 @@ Maintenant, la partie que certain attend assidument : le vin d’honneur. Direct
 
 a
  et L'amour :
-Je suis si heureux d'être là aujourd'hui à cette place avec ce rôle et surtout pour vous deux... de pouvoir faire ma part dans ce jour si unique... vous êtes génereux, enflamés et si attachant ... 
+Je suis vraiment heureux d'être là aujourd'hui à faire ma part avec ce rôle et surtout pour vous deux... de pouvoir faire ma part dans ce jour si unique... vous êtes génereux, enflamés et si attachant ... 
 Mais commenceons par le début, une rencontre sur Fruits (une application de rencontres pour les plus vénérable d'entre nous), mis cerise mi raisins... une accroche tout de suite, une connection peu commune dans ces endroits. Puis un premier date, chez lui pour un diner autour d'un parmentier de patates douces prévue mais toi Carla tu ne baisses pas tout de suite ta garde. Tu as raison on ne sait jamais, tu arrives chez lui, tu trouves d'abord son passeport sur le comptoir, tu vérifies c'est le bon nom, probablement pas un psycopathe. Ensuite petite visite du reste de l'appartement, la batte de baseball sur le bureau, la hache dans le salon, non mais c'est un mec manuel tout vas bien. Pierre tu avais bien préparé les choses, après le parmentier, une petite balade jusqu'au hauteur de \[à compléter] abord de la civic,  tu lui avais déjà donné des indices ... Et puis par je ne sais quelle folie ou absurdité, sur "il y a la place de rentré trois personnes dans le coffre", Carla tu te met dans le coffre de la civic pour vérifier. Ta méfiance a quand même été de très courte durée ou peut-être Pierre tu es un sorcier à ce point la je ne sais plus. Parce que là Carla soit tu trouves l'homme avec lequelle tu vas te marié ou soit tu finie dans une cave à l'autre bout de l'Europe. Peut être que tu connaissais déjà la suite, quelques seconds plus tard en sortant du coffre votre premier baiser et là commence vraiment votre histoire. 
 
-Vous êtes drôles ensemble, enflammé sur tout les sujets, mais toujours sincères. Autour de vous, on sourit simplement en vous voyant, parce que on devine toujours cette douceur qui affleure, cette envie sincère que l’autre aille bien. Alors, aujourd’hui, nous ne vous souhaitons pas de ne jamais vous chamailler : ce serait vous priver d'une partie de votre charme. Nous vous souhaitons de continuer à crépiter, à garder votre passion et votre tendresse, dans ce mélange de franchise et de amour qui n’appartient qu’à vous.
+Vous êtes drôles ensemble, enflammé sur tout les sujets, mais toujours sincères. Autour de vous, on sourit simplement en vous voyant, parce que on devine toujours cette douceur qui affleure, cette envie sincère que l’autre aille bien. Alors, aujourd’hui, nous ne vous souhaitons pas de ne jamais vous chamailler : ce serait vous priver d'une partie de votre charme. Nous vous souhaitons de continuer à crépiter, à garder votre passion et votre tendresse, dans ce mélange de franchise et de amour qui est le votre.
 
 
 
